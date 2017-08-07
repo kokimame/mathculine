@@ -1,0 +1,1 @@
+Find the Maclaurin polynomial of degree 5 for sqrt(1 + sin(x)) (0 < x < pi).
