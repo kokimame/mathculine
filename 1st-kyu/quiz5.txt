@@ -1,0 +1,1 @@
+If 0 <= x <= 1, what is the value of 2sin^-1(sqrt(x))-sin^-1(2x-1)?
