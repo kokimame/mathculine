@@ -1,0 +1,2 @@
+Find all the roots, real and complex, of the following system of equations.
+{ x^2 + y = 0, y^2 + z = 0, z^2 + x = 0
