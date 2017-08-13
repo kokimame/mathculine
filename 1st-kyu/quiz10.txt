@@ -1,1 +1,1 @@
-Find the shortest distance between the lines (x-3)/2=(y+1)/3=x and (x+2)/3=(y+5)/2=(z+6)/2
+Find the shortest distance between the lines (x-3)/2=(y+1)/3=z and (x+2)/3=(y+5)/2=(z+6)/2
