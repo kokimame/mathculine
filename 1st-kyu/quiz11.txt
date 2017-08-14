@@ -1,0 +1,5 @@
+Find the inverse matrix of the following, if known that at least one of a, b, c and d is positive:
+| a  -b  -c  -d |
+| b   a  -d   c |
+| c   d   a  -b |
+| d  -c   b   a |
