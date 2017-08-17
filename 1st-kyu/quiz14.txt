@@ -1,0 +1,4 @@
+Orthogonally diagonalize the following matrix:
+|0 1 1|
+|1 0 1|
+|1 1 0|
