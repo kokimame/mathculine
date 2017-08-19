@@ -1,0 +1,1 @@
+Find the derivative of the following: x^x
