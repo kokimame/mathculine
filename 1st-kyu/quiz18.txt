@@ -1,0 +1,2 @@
+Let n be a positive integer. Show that 
+    e/(2n+2) < e - (1+(1/n))^n < e/(2n+1)
