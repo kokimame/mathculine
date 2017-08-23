@@ -1,0 +1,1 @@
+Find the value of sin(20°)*sin(40°)*sin(60°)*sin(80°)
