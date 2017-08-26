@@ -1,0 +1,2 @@
+Find the general indefinite integral.
+∫ dx/sqrt(1+x^2)
