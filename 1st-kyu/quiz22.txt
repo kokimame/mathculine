@@ -1,0 +1,2 @@
+Solve the differential equation.
+(d^2y/dx^2) + 4y = sin(2x)
