@@ -1,0 +1,1 @@
+Find the sum of k/(1 + k^2 + k^4), k = 1 to infinity
