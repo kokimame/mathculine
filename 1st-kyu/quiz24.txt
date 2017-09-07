@@ -1,0 +1,2 @@
+Given g(x) = x^5 + x^4 + x^3 + x^2 + x + 1,
+find the remainder of g(x^12) divided by g(x).
